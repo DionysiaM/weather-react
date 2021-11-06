@@ -65,3 +65,5 @@ export default function Weather() {
     </div>
   );
 }
+
+<a href="https://github.com/DionysiaM/weather-react"> Open source </a>;
